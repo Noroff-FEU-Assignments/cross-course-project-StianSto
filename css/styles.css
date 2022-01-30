@@ -19,7 +19,8 @@ main {
 .banner-picture,
 .product_image,
 .blog-items_box img,
-.about_us_content img {
+.about_us_content img,
+.logo_full img {
   width: 100%;
 }
 
